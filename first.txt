@@ -2,3 +2,6 @@ remote learning
 some more changings
 online changing
 again changing online
+
+
+changes for smartgit
